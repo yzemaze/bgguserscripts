@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name				bggGeeklistItemCommentsDeepLink
-// @description	add links to geeklist item comments to load item plus comment(s) instead of an entire geeklist page
-// @namespace		https://github.com/yzemaze/bgguserscripts
-// @grant    		none
-// @version  		1.0
+// @name        bggGeeklistItemCommentsDeepLink
+// @description add links to geeklist item comments to load item plus comment(s) instead of an entire geeklist page
+// @namespace   https://github.com/yzemaze/bgguserscripts
+// @version     1.0
+// @grant       none
 // @author      yzemaze
 // ==/UserScript==
 
