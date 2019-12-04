@@ -4,8 +4,10 @@
 // @license     GPL-3.0-or-later; https://www.gnu.org/licenses/gpl-3.0.txt
 // @homepageURL https://github.com/yzemaze/bgguserscripts
 // @supportURL  https://github.com/yzemaze/bgguserscripts/issues
+// @downloadURL https://github.com/yzemaze/bgguserscripts/raw/master/bggGeeklistItemCommentsDeepLink.user.js
+// @updateURL   https://github.com/yzemaze/bgguserscripts/raw/master/bggGeeklistItemCommentsDeepLink.user.js
 // @namespace   https://github.com/yzemaze/bgguserscripts
-// @version     1.1
+// @version     1.2
 // @author      yzemaze
 // ==/UserScript==
 
