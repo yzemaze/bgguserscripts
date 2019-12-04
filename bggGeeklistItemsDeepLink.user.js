@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name				bggGeeklistItemsDeepLink
 // @description	add links to geeklist items to load just the item instead of an entire geeklist page
+// @license     GPLv3
+// @homepageURL https://github.com/yzemaze/bgguserscripts
+// @supportURL  https://github.com/yzemaze/bgguserscripts/issues
 // @namespace		https://github.com/yzemaze/bgguserscripts
-// @grant    		none
-// @version  		1.0
+// @version  		1.1
 // @author      yzemaze
 // ==/UserScript==
 
