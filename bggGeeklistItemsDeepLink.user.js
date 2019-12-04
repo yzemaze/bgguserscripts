@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name				bggGeeklistItemsDeepLink
 // @description	add links to geeklist items to load just the item instead of an entire geeklist page
-// @license     GPLv3
+// @license     GPL-3.0-or-later; https://www.gnu.org/licenses/gpl-3.0.txt
 // @homepageURL https://github.com/yzemaze/bgguserscripts
 // @supportURL  https://github.com/yzemaze/bgguserscripts/issues
 // @namespace		https://github.com/yzemaze/bgguserscripts
