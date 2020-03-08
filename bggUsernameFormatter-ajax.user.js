@@ -14,7 +14,6 @@
 // @version     1.0
 // @author      yzemaze
 // ==/UserScript==
-// document.addEventListener("DOMContentLoaded", function() {
 "use strict";
 waitForKeyElements("a.user-display__primary-link", usernameFormat);
 function usernameFormat() {
