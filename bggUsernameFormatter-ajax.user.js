@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        bggTest
+// @name        bggUsernameFormatter-ajax
 // @description	remove leading @ from usernames
 // @license     GPL-3.0-or-later; https://www.gnu.org/licenses/gpl-3.0.txt
 // @match       https://*.boardgamegeek.com/thread/*
