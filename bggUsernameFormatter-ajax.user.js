@@ -5,8 +5,8 @@
 // @match       https://*.boardgamegeek.com/thread/*
 // @homepageURL https://github.com/yzemaze/bgguserscripts
 // @supportURL  https://github.com/yzemaze/bgguserscripts/issues
-// @downloadURL https://github.com/yzemaze/bgguserscripts/raw/master/bggUsernameFormatter.user.js
-// @updateURL   https://github.com/yzemaze/bgguserscripts/raw/master/bggUsernameFormatter.user.js
+// @downloadURL https://github.com/yzemaze/bgguserscripts/raw/master/bggUsernameFormatter-ajax.user.js
+// @updateURL   https://github.com/yzemaze/bgguserscripts/raw/master/bggUsernameFormatter-ajax.user.js
 // @namespace		https://github.com/yzemaze/bgguserscripts
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
 // @require     https://gist.github.com/raw/2625891/waitForKeyElements.js
