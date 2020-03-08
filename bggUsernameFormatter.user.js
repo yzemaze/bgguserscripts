@@ -14,6 +14,6 @@
 window.addEventListener('load', function() {
   var sel = document.querySelectorAll("a.user-display__primary-link, .user-display__secondary-name > a, .user-attribution__primary-name ,.user-attribution__secondary-name");
   sel.forEach(function(el) {
-    el.textContent = el.textContent.replace(/^\s*@/, "");
+    el.textContent = el.textContent.trim().replace(/^@/, "");
   });
 }, false);
