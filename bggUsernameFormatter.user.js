@@ -7,10 +7,11 @@
 // @supportURL  https://github.com/yzemaze/bgguserscripts/issues
 // @downloadURL https://github.com/yzemaze/bgguserscripts/raw/master/bggUsernameFormatter.user.js
 // @updateURL   https://github.com/yzemaze/bgguserscripts/raw/master/bggUsernameFormatter.user.js
-// @namespace		https://github.com/yzemaze/bgguserscripts
-// @version     1.0
+// @namespace   https://github.com/yzemaze/bgguserscripts
+// @version     1.1
 // @author      yzemaze
 // ==/UserScript==
+"use strict";
 window.addEventListener('load', function() {
   var sel = document.querySelectorAll("a.user-display__primary-link, .user-display__secondary-name > a, .user-attribution__primary-name ,.user-attribution__secondary-name");
   sel.forEach(function(el) {
