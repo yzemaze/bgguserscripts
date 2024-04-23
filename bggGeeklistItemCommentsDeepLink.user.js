@@ -7,7 +7,8 @@
 // @downloadURL https://github.com/yzemaze/bgguserscripts/raw/master/bggGeeklistItemCommentsDeepLink.user.js
 // @updateURL   https://github.com/yzemaze/bgguserscripts/raw/master/bggGeeklistItemCommentsDeepLink.user.js
 // @namespace   https://github.com/yzemaze/bgguserscripts
-// @version     1.2
+// @match       https://*.boardgamegeek.com/geeklist/*
+// @version     1.3
 // @author      yzemaze
 // ==/UserScript==
 
